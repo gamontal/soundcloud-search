@@ -4,8 +4,7 @@ SoundCloud Search is a Chrome extension for searching [SoundCloud](https://sound
 
 You can install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/category/apps?):
 
-[<img src="https://github.com/gmontalvoriv/soundcloud-search/blob/master/images/chrome_store.png" width="250">](https://google.com)
-
+[<img src="https://github.com/gmontalvoriv/soundcloud-search/blob/master/images/chrome_store.png" width="250">](https://chrome.google.com/webstore/detail/soundcloud-search/elbnoifhdccmcgjbbagofcmnoibejgkc)
 ## Usage
 
 > Using the keyword `sc` [tab/space] you can immediately start searching for tracks
@@ -13,7 +12,7 @@ You can install the extension from the [Chrome Web Store](https://chrome.google.
 
 ![](https://github.com/gmontalvoriv/soundcloud-search/blob/master/images/sc2.png)
 
-> Type in the username preceded by a [ / ] to search for that user
+> Type in the username preceded by a forward-slash [ / ] to search for that user
 
 ![](https://github.com/gmontalvoriv/soundcloud-search/blob/master/images/sc3.png)
 
